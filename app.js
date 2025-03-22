@@ -42,7 +42,7 @@ const client = twilio(accountSid, authToken);
 // 4. Send confirmation message
 
 // Forward message for processing
-// command prefixing number?
+// command prefix?
 // Yes: process command
 // No: forward message to group
 
